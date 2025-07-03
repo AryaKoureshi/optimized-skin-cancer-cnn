@@ -7,23 +7,6 @@ Automated dermatological lesion classification using an optimized CNN, per the p
 
 ---
 
-## 📂 Structure
-
-optimized-skin-cancer-cnn/
-
-├── paper/                       # Original publication (PDF)
-
-├── requirements.txt             # Python dependencies
-
-├── .gitignore
-
-├── LICENSE
-
-└── README.md
-
-
----
-
 ## ⚙️ Setup
 
 1. **Clone**
